@@ -1,4 +1,5 @@
-import { defineCollection, glob } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 const common = z.object({
  title: z.string(), author: z.string().optional(), edition: z.number().optional(),
