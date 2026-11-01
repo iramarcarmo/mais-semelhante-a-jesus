@@ -1,0 +1,6 @@
+---
+import Base from '../../layouts/Base.astro';import{getCollection}from'astro:content';
+const base=import.meta.env.BASE_URL.replace(/\/$/,'');const url=(p='')=>`${base}/${p.replace(/^\//,'')}`;
+const lessons=(await getCollection('licoes')).sort((a,b)=>a.data.lesson_number-b.data.lesson_number);
+---
+<Base title="Todas as lições"><div class="container"><span class="eyebrow">Roteiro de estudo</span><h1>As 18 lições</h1><p>Explore os estudos bíblicos em sequência ou escolha um tema.</p><div class="cards">{lessons.map(l=><a class="card" href={url(`licoes/${l.id}/`)}><img loading="lazy" src={url(l.data.cover)} alt={`Imagem da lição ${l.data.lesson_number}`} /><div class="inner"><span class="number">LIÇÃO {String(l.data.lesson_number).padStart(2,'0')}</span><h3>{l.data.title}</h3></div></a>)}</div></div></Base>

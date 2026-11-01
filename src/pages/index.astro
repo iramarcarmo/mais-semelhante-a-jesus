@@ -1,0 +1,8 @@
+---
+import Base from '../layouts/Base.astro';
+import {getCollection} from 'astro:content';
+const base=import.meta.env.BASE_URL.replace(/\/$/,'');
+const url=(p='')=>`${base}/${p.replace(/^\//,'')}`;
+const lessons=(await getCollection('licoes')).sort((a,b)=>a.data.lesson_number-b.data.lesson_number);
+---
+<Base title="Início"><div class="container"><section class="hero"><div><span class="eyebrow">Série de estudos bíblicos • 2026</span><h1>Mais Semelhante a Jesus</h1><p class="sub">Uma jornada em 18 lições para conhecer a Cristo, refletir sobre Seus ensinos e viver uma fé que transforma.</p><p>Conhecer • Refletir • Viver • Servir</p><a class="btn" href={url(`licoes/${lessons[0].id}/`)}>Iniciar os estudos</a> <a class="btn alt" href={url('licoes/')}>Ver todas as lições</a><p class="muted">Autor: Wilson Valentim</p></div><img src={url('images/capa-livro.webp')} alt="Capa ilustrada do livro Mais Semelhante a Jesus"/></section><section><span class="eyebrow">Explore o conteúdo</span><h2 class="section-title">As 18 lições</h2><div class="cards">{lessons.map(l=><a class="card" href={url(`licoes/${l.id}/`)}><img loading="lazy" src={url(l.data.cover)} alt={`Capa da lição ${l.data.lesson_number}`} /><div class="inner"><span class="number">LIÇÃO {String(l.data.lesson_number).padStart(2,'0')}</span><h3>{l.data.title}</h3></div></a>)}</div></section></div></Base>
