@@ -21,8 +21,6 @@ guiding_prompts:
 
 # Quando Jesus Ensinou Sobre Contaminação
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Se seu [ser humano] aparecimento no planeta Terra é uma consequência acidental e imprevista do acaso evolutivo, não deveria haver para ele uma alimentação adequada; bastaria se adaptar os alimentos disponíveis, pois sempre funcionariam bem e colaborariam com a saúde. Porém, se o ser humano foi criado por uma Inteligência superior, de acordo com um plano e propósito, deveria haver também alimentos especialmente criados para seu bom funcionamento fisiológico.” – Jorge Pamplona, O Poder Medicinal dos Alimentos, p. 15-16
 
 ### 1. Que discussão Jesus teve com os fariseus sobre alimentação?

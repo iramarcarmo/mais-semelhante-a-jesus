@@ -21,8 +21,6 @@ guiding_prompts:
 
 # Conhecendo a Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Desde tempos imemoriais, pelos corredores da história, passaram comandantes, caudilhos, ditadores, governantes, líderes militares, presidentes, políticos, poetas, gênios, artistas, filósofos e teólogos. A maioria deles passou sem deixar qualquer informação sobre suas realizações, destruídas pela mão ferruginosa do tempo. Mas o transcorrer das eras não exerceu nenhum efeito sobre Jesus Cristo. Sua vida, conforme registrada nos evangelhos, permanece hoje tão atual como nos dias em que Ele viveu. Por qualquer critério que adotemos, Ele é o personagem central da história. Sua vida e ensinos ainda causam enorme impacto transformador em todos aqueles que se detêm para considerar sua carismática e irresistível pessoa.” – Amin Rodor, O Incomparável Jesus Cristo, p. 10
 
 ### 1. O que João Batista declarou sobre Jesus?

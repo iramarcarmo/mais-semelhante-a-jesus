@@ -21,8 +21,6 @@ guiding_prompts:
 
 # O Exemplo de Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Jesus foi tanto nosso substituto como nosso exemplo, e nesta ordem. Há uma prioridade de substituto sobre exemplo como há de Deus sobre o homem e do Salvador sobre os salvos. Isto é importante notar. A cristologia nunca deve começar com exemplo e esperar fazer justiça à sua substituição. Deve seguir o caminho que leva da substituição ao exemplo. Precisamos de sua substituição por todo o caminho. Necessitamos de sua eterna divindade, seu nascimento impecável, sua vida inocente, sua morte perfeita, sua ressureição, sua intercessão sumo sacerdotal e sua segunda vinda. Também precisamos dele como um homem que exemplifica total dependência de Deus.” – Amin Rodor (org.), A Natureza Humana de Cristo, p. 99
 
 ### 1. De que maneira Jesus nos ensina sobre a importância de buscar a vontade de Deus?

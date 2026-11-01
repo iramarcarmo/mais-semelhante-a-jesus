@@ -21,8 +21,6 @@ guiding_prompts:
 
 # A Igreja de Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “A igreja comprometida com a missão é também uma igreja encarnacional. Seguindo o exemplo de Cristo que foi enviado e, em obediência, veio ao mundo (Jo 1:1-14), a igreja precisa aceitar o chamado a cumprir sua missão particular em toda circunstância cultural.” – Kleber Gonçalves, Igreja Relevante, p. 116
 
 ### 1. Qual foi a oração de Jesus e por quem Ele orou?

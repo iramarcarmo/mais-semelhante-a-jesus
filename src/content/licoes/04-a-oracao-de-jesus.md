@@ -21,8 +21,6 @@ guiding_prompts:
 
 # A Oração de Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Com frequência, nossas orações se tornam muito centradas em nós mesmos, preocupadas apenas com as próprias necessidades e aflições. Quem sabe até oremos pelas necessidades dos outros, mas não os ajudamos. Podemos interceder pela pregação do evangelho ao redor do mundo, mas não a apoiamos com nossos recursos.” – Alberto Timm, Um dia Inesquecível, p. 344
 
 ### 1. Que pedido foi feito a Jesus?

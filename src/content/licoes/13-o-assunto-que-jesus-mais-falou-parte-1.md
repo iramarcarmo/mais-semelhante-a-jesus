@@ -21,8 +21,6 @@ guiding_prompts:
 
 # O Assunto Que Jesus Mais Falou — Parte 1
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Jesus gastou muito tempo ensinando sobre o dinheiro e as riquezas. Só para você ter uma ideia, no Novo Testamento há 90 passagens onde Jesus trata do assunto, em contrapartida aos termos ‘arrependimento’ (21 vezes), ‘pecado’ e ‘pecadores’ (72 vezes) ou ‘Espírito Santo’ (27 vezes. Dos 107 versículos do Sermão da Montanha, 28 tratam do dinheiro. Das 49 parábolas, 16 usam dinheiro ou bens materiais como base de instrução, e 8 ensinam como usarmos nosso dinheiro. Exceto por Sua ênfase no Reino de Deus, Jesus falou mais sobre dinheiro do que qualquer outro tema.” – Revista Saldo Mais, p. 8
 
 ### 1. Qual é o ensino básico de Jesus sobre finanças?

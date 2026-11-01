@@ -21,8 +21,4 @@ npm run dev
 npm run build
 ```
 
-## Estado editorial
-
-O material de origem foi convertido automaticamente, e os Markdown mantêm `draft: true` como **sinal de revisão pendente**. O site exibe todos os estudos para **conferência prévia**; a marcação `draft` não impede a exibição. Antes de divulgar amplamente, conferir `REVISAO_EDITORIAL.md` e aprovar a redação.
-
 O campo de anotações no site é temporário e não grava dados.

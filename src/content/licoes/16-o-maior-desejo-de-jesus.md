@@ -21,8 +21,6 @@ guiding_prompts:
 
 # O Maior Desejo de Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Como discípulos do Mestre, devemos estar conectados constantemente Àquele que é nossa fonte de poder. Dessa conexão vital depende toda a nossa vitalidade e vigor e também nosso êxito no cumprimento da missão. Tudo que fazemos na igreja e em termos de religião é sem valor se prescindimos dessa ligação tão importante com a pessoa divina de Cristo Jesus.” – Víctor Armenteros, Vislumbres da Eternidade, p. 360
 
 ### 1. Para que Jesus chamou os doze discípulos?

@@ -21,8 +21,6 @@ guiding_prompts:
 
 # Como Jesus Tratou as Pessoas
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 - CONHECENDO A JESUS “O ministério de Cristo contrastava com o dos anciãos judeus. O cuidado deles, quanto à tradição e ao formalismo, destruíra toda verdadeira liberdade de pensamento e ação. Viviam em contínuo medo de contaminação. Para evitar contato com o ‘imundo’, mantinham-se separados, não só dos gentios, mas da maior parte de seu próprio povo, não procurando beneficiá-lo, nem lhe granjear a amizade. Por considerar sempre essas coisas, haviam impedido o desenvolvimento do próprio espírito e estreitado a esfera de sua existência. Seu exemplo animava o egoísmo e a intolerância em todas as classes do povo. Jesus começou Sua obra de reforma, pondo-Se em íntima simpatia com a humanidade. Ao passo que mostrava a maior reverência para com a lei de Deus, censurava a pretensa piedade dos fariseus, e tentava libertar o povo dos regulamentos absurdos que o acorrentavam. Procurava derribar as barreiras que separavam as diversas classes sociais, a fim de unir os homens como filhos de uma só família.” – Ellen White, O Desejado de Todas as Nações, p. 150
 
 ### 1. Como Jesus definiu sua missão?

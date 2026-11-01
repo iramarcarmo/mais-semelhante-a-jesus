@@ -21,8 +21,6 @@ guiding_prompts:
 
 # Os Porta-Vozes de Jesus
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “Tendo em mente que as revelações divinas são sucessivas, cada qual amplificando as outras que vieram antes dela, consideremos algumas implicações desse fato. Os profetas não alteravam as revelações anteriores, mas chamavam atenção para elas e as amplificavam. Essa é a relação que existe entre o Espírito de Profecia e a Bíblia.” – W.E. Read, A Bíblia, o Espírito de Profecia e a Igreja, p. 120-121
 
 ### 1. Que advertência Jesus fez aos discípulos sobre os profetas?

@@ -21,8 +21,6 @@ guiding_prompts:
 
 # Quando Jesus Chorou
 
-> **Nota de transcrição:** texto extraído do PDF original; verificar a diagramação e os trechos indicados no relatório de conferência antes da publicação.
-
 “A razão pela qual as pessoas vinham a Cristo com suas calamidades é que eles suspeitavam do que Jesus sabia – que Deus pode. Deus pode lidar com todas as nossas necessidades – mesmo o medo da morte. Deus venceu a morte.” – Troy Fitzgerald, Perguntas de Deus para Você, p. 124
 
 ### 1. A que Jesus comparava a morte?
