@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# A Palavra de Jesus
-
 “Se o próprio Jesus Cristo sentiu necessidade de voltar-se ao AT, creio ser elementar compreender a maneira como Ele fez isso, analisando o modo como explorou os escritos dos profetas... a atitude de Jesus para com as escrituras hebraicas pode ser de importância primordial, a fim de guiar-nos aos pontos de vista que os cristãos de hoje devem tomar em relação à Bíblia.” – Adolfo Suárez, Como Jesus lia a Bíblia, p. 16
 
 ### 1. De acordo com Jesus, qual a importância dos livros do Antigo Testamento?

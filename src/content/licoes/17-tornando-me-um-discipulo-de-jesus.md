@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# Tornando-me um Discípulo de Jesus
-
 “Quando nossas crenças dogmáticas e princípios morais não se materializam em discipulado, nossa santidade é uma ilusão. E o mundo não tem tempo para ilusões. Hoje em dia a comunidade cristã não incomoda o mundo.” - Brennan Manning, A Assinatura de Jesus, p. 15 Se você chegou até aqui nesta série, é porque já percorreu um caminho de reflexão e descobertas olhando para Jesus. Ao longo dos estudos, contemplamos o Mestre sob diferentes prismas — em suas parábolas, ensinamentos e atitudes — e fomos, pouco a pouco, transformados por Sua palavra. Um novo “eu” tem surgido moldado à medida que O seguimos e contemplamos.
 
 Agora, somos convidados a dar mais um passo: é hora de nos deixarmos lapidar, para que o nosso discipulado reflita, com ainda mais clareza, a imagem do nosso Senhor.

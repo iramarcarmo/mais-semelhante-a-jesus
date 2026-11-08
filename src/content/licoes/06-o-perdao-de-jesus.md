@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# O Perdão de Jesus
-
 “Começamos a ter uma noção da profundidade da graça apenas quando passamos a entender a santidade de Deus. Aquele que é infinito em graça também é infinito em santidade. Essa palavra significa deslumbrante pureza, justiça e integridade dos quais pecado e pecadores fogem. Unicamente à luz dAquele que é santo começamos a ver quão distantes estamos de Seu ideal para nós. Esse é o mesmo Ser que nos aceita exatamente como somos, convida-nos a voltar para Ele, perdoa-nos liberalmente e concede-nos um novo começo como Seus filhos e filhas. Isso é graça sem fim.” – William Johnsson, Jesus a Preciosa Graça, p. 131
 
 ### 1. Que debate Jesus teve com os mestres da lei?

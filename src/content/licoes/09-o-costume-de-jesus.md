@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# O Costume de Jesus
-
 “Através de todo o Evangelho o quê da revelação está sempre entrelaçado com o como da ação. Os primeiros capítulos mostram que o homem deve adquirir a fé se deseja se livrar do pecado, das trevas e da morte, para passar à obediência, à luz e à vida. Esta aquisição da fé não é intelectual. É uma aquisição de experiência.” – Mário Veloso, Comentário do Evangelho de João, p. 127
 
 ### 1. De acordo com Lucas, que costumes Jesus tinha?

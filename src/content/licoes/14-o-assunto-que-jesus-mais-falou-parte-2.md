@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# O Assunto Que Jesus Mais Falou — Parte 2
-
 “A escuridão moral de um mundo arruinado pleiteia com os cristãos, homens e mulheres, para exercerem esforços pessoais, doarem de seus recursos financeiros e de sua influência, de modo a serem assemelhados à imagem Daquele que, embora possuísse riquezas infinitas, Se fez pobre por amor a nós (2Co 8:9).” – Ellen White, Mordomo Eficaz, p. 164
 
 ### 1. Para Jesus, o que significa ser um mordomo?

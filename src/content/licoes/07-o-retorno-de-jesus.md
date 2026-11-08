@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# O Retorno de Jesus
-
 “Assim como o conhecimento é progressivo, também é o amor, a reverência e a felicidade aumentarão. Quanto mais aprendem os homens acerca de Deus, mais lhe admiram o caráter. Ao revelar-lhes Jesus as riquezas da redenção e os estupendos feitos do grande conflito com Satanás, a alma dos resgatados fremirá com mais fervorosa devoção, e com mais arrebatadora alegria dedilharão as harpas de ouro; e milhares de milhares, e milhões de milhões de vozes se unem para avolumar o potente coro de louvor.” – Rodrigo Silva, O Ceticismo da Fé, p. 557
 
 ### 1. Jesus prometeu algo a seus discípulos, o que foi?

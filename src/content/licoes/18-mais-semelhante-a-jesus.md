@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# Mais Semelhante a Jesus
-
 “Pela graciosa influência do Espírito Santo, ele é transformado e se torna um com Cristo no espírito e no propósito. Sua afeição a Deus aumenta, tem fome de justiça e almeja ser mais semelhante a seu Mestre. Contemplando a Cristo é transformado de glória em glória, de caráter em caráter, e se torna mais e mais semelhante a jesus. Está imbuído do amor a Cristo e pleno de profundo e incansável amor às almas que perecem, e Cristo é formado interiormente, a esperança da glória.” – Ellen White, E Recebereis Poder, p. 182
 
 ### 1. Todos nós temos algum propósito na vida. E Jesus?

@@ -19,8 +19,6 @@ guiding_prompts:
   minha_decisao: "Que atitude concreta vou praticar nesta semana?"
 ---
 
-# O Que Jesus Ensinou Sobre Família
-
 “Desde os primitivos tempos, os fiéis em Israel haviam dado muita atenção à educação da juventude. O Senhor dera instruções quanto a ensinar-se as crianças desde a mais tenra idade, acerca de Sua bondade e grandeza, especialmente segundo estas se revelam em Sua lei, e se demonstram na história de Israel. Cânticos, orações e lições das Escrituras deviam ser adaptados à mente que se ia abrindo. Os pais e mães deviam instruir os filhos em que a lei de Deus é a expressão de Seu caráter.” – Ellen White, O Desejado de Todas as Nações, p. 69
 
 ### 1. O que nos é relatado sobre a família de Jesus?
